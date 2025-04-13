@@ -18,28 +18,25 @@ Performance Indicators: Visual elements showcase average and median sales, profi
 
 ![WhatsApp Image 2025-04-13 at 11 50 14 PM](https://github.com/user-attachments/assets/5380fae8-d2de-4040-90f6-1592c76e1a7f)
 This page is an overview of the company’s sales performance and operational metrics:
-•	Total Orders: 66K
-•	Total Sales: $35.214M
-•	Total Profit: $3.806M
-•	Profit Margin: 10.81%
-•	Cancelled Sales: $1.57M (4.27%)
-•	Losses (Negative Profit): $3.71M, accounting for 49.35% of total profit
-•	Negative Profit Margin: -0.11 (49.35%)
+(Total Orders-
+Total Sales-
+Total Profit-
+Profit Margin-
+Cancelled Sales-
+Losses (Negative Profit)-
+Negative Profit Margin)
 Key Operational Insights:
-•	Customers: 21K
-•	Markets Served: 5
-•	Countries of Orders: 164
-•	Departments: 11
-•	Product Categories: 51
-•	Total Products: 118
+(Customers-
+Markets Served-
+Countries of Orders-
+Departments-
+Product Categories-
+Total Products)
 Market Distribution:
-•	Africa
-•	Europe
-•	Latin America (LATAM)
-•	Pacific Asia
-•	United States & Canada (USCA)
-Yearly Order Trends:
-•	2015: 21K orders
-•	2016: 21K orders
-•	2017: 22K orders
-•	2018: 2K orders (one month)
+(Africa-
+Europe-
+Latin America (LATAM)-
+Pacific Asia-
+United States & Canada (USCA))
+Yearly Order Trends
+
